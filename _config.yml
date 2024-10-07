@@ -85,30 +85,6 @@ contact_note: >
   Online Time: 9:00-17:00 on Work day
 
 # -----------------------------------------------------------------------------
-# Collections
-# -----------------------------------------------------------------------------
-
-collections: 
-  news: 
-    defaults: 
-      layout: 
-    output: true
-    permalink: 
-  projects: 
-    output: true
-    permalink: 
-
-announcements: The Entrence of New Stage of Life
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
-
-# -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
