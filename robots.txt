@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Jen0307.gitHub.io/al-folio/sitemap.xml
