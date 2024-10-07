@@ -88,15 +88,15 @@ contact_note: >
 # Collections
 # -----------------------------------------------------------------------------
 
-collections: Temporarily unavailable
-  news: Temporarily unavailable
-    defaults: Temporarily unavailable
-      layout: Temporarily unavailable
+collections: 
+  news: 
+    defaults: 
+      layout: 
     output: true
-    permalink: Temporarily unavailable
-  projects: Temporarily unavailable
+    permalink: 
+  projects: 
     output: true
-    permalink: Temporarily unavailable
+    permalink: 
 
 announcements: The Entrence of New Stage of Life
   enabled: true
